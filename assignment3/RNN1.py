@@ -370,3 +370,27 @@ for split in ['train', 'val']:
     plt.title('%s\n%s\nGT:%s' % (split, sample_caption, gt_caption))
     plt.axis('off')
     plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
